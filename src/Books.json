@@ -1,0 +1,124 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "author": "Gabriel Garcia Marquez",
+        "language": "Spanish",
+        "title": "Cien años de soledad"
+      },
+      {
+        "id": 2,
+        "author": "Jane Austen",
+        "language": "English",
+        "title": "Pride and Prejudice"
+      },
+      {
+        "id": 3,
+        "author": "George Orwell",
+        "language": "English",
+        "title": "1984"
+      },
+      {
+        "id": 4,
+        "author": "Harper Lee",
+        "language": "English",
+        "title": "To Kill a Mockingbird"
+      },
+      {
+        "id": 5,
+        "author": "Fyodor Dostoevsky",
+        "language": "Russian",
+        "title": "Crime and Punishment"
+      },
+      {
+        "id": 6,
+        "author": "J.K. Rowling",
+        "language": "English",
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "id": 7,
+        "author": "Gabriel Garcia Marquez",
+        "language": "Spanish",
+        "title": "El amor en los tiempos del cólera"
+      },
+      {
+        "id": 8,
+        "author": "Emily Bronte",
+        "language": "English",
+        "title": "Wuthering Heights"
+      },
+      {
+        "id": 9,
+        "author": "Leo Tolstoy",
+        "language": "Russian",
+        "title": "War and Peace"
+      },
+      {
+        "id": 10,
+        "author": "Mark Twain",
+        "language": "English",
+        "title": "The Adventures of Huckleberry Finn"
+      },
+      {
+        "id": 11,
+        "author": "Albert Camus",
+        "language": "French",
+        "title": "L'Étranger"
+      },
+      {
+        "id": 12,
+        "author": "Gabriel Garcia Marquez",
+        "language": "Spanish",
+        "title": "Crónica de una muerte anunciada"
+      },
+      {
+        "id": 13,
+        "author": "J.R.R. Tolkien",
+        "language": "English",
+        "title": "The Lord of the Rings"
+      },
+      {
+        "id": 14,
+        "author": "Jules Verne",
+        "language": "French",
+        "title": "Twenty Thousand Leagues Under the Sea"
+      },
+      {
+        "id": 15,
+        "author": "Charles Dickens",
+        "language": "English",
+        "title": "A Tale of Two Cities"
+      },
+      {
+        "id": 16,
+        "author": "George R.R. Martin",
+        "language": "English",
+        "title": "A Game of Thrones"
+      },
+      {
+        "id": 17,
+        "author": "Miguel de Cervantes",
+        "language": "Spanish",
+        "title": "Don Quixote"
+      },
+      {
+        "id": 18,
+        "author": "Virginia Woolf",
+        "language": "English",
+        "title": "To the Lighthouse"
+      },
+      {
+        "id": 19,
+        "author": "Hermann Hesse",
+        "language": "German",
+        "title": "Siddhartha"
+      },
+      {
+        "id": 20,
+        "author": "Ken Kesey",
+        "language": "English",
+        "title": "One Flew Over the Cuckoo's Nest"
+      }
+    ]
+  }
